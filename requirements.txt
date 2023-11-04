@@ -1,6 +1,5 @@
 fastapi 
 uvicorn 
-numpy==1.23.5
 paddleocr==2.7.0.2
 paddlepaddle==2.5.1
 scikit-image
