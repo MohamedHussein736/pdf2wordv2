@@ -1,1 +1,2 @@
-# pdf2wordv2
+# PdfToDocx
+Convert pdf to docx format

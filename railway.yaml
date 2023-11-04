@@ -1,0 +1,4 @@
+services:
+  app:
+    port: 8000
+
